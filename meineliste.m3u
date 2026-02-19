@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a8f71877-931f-4d62-a03b-fed90ba90422%22%2Csu
+
+#EXTINF:-1, ZDF
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a8f71877-931f-4d62-a03b-fed90ba90422%22%2Csu
